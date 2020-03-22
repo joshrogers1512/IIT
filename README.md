@@ -17,6 +17,8 @@ After completing High School, I took some time off to travel around both the Uni
 
 Since my last attempt at Uni, I have since landed myself a job working in sports tech for the past 4 years, falling completely in love with it. Now spending majority of my time behind a screen these days, I'm lucky enough to have the ultimate release by being able to escape to a farm in South East Gippsland run by my parents. Getting down there to assist with all animal & regular farm related tasks is something that I truely love and provides me the perfect balance.
 
+![Image](src)
+
 
 
 ### Interest in IT
@@ -24,8 +26,14 @@ Since my last attempt at Uni, I have since landed myself a job working in sports
 You should answer the questions below as best you can. Each answer should be one paragraph in length.
 
 **What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).**
-- Why did you choose to come to RMIT?
-- What do you expect to learn during your studies?
+As I briefly touched on above, about 4 years ago I moved into a IT/tech industry when taking on a role at company FanHub Media. Starting as a customer support staff member, I have made my way up to a Product Manager, with experience managing app & website builds that have reached a user databases of over 300,000. 
+
+Intially working at FanHub Media was easy due to my strong interest in sports, although as my time at the company has progressed I have found my 
+
+**Why did you choose to come to RMIT?**
+
+
+**What do you expect to learn during your studies?**
 
 
 ### Ideal Job
