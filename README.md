@@ -41,12 +41,55 @@ I'm going into my studies with 2 key goals;
 
 1. Increase Technical Knowledge to assist with Product Management role at work. 
 
-2. Equip myself with the skills to have the capabilty to create & build web projects myself.
+2. Equip myself with the skills to have the capabilty to create & build web projects myself, I want to come out of this with a dynamic set of developer skills.
 
 
 ### Ideal Job
 
-lorem ispum
+**Job Title:** Full Stack Developer
+
+**Job Link:** https://www.seek.com.au/job/41091991?type=standard#searchRequestToken=fd3e801f-24a7-4e65-8fb3-e38034b9db70
+
+**Job Summary:** 
+
+- Build and deliver code across the full development stack, finding innovative ways to deliver the best outcomes for our business and men that we serve;
+- Ensure quality is maintained across all technical deliverables by building quality code and contributing to peer code reviews;
+- Have technical input into the agile delivery process, including story card reviews, tech spikes, estimation etc;
+Contribute to what we build - more importantly calling out your product ideas, championing innovation, and delivering what our audience wants.  
+
+
+
+**Description of the position, and particularly what makes this position appealing to you.**
+
+Working to develop code across the full development stack, being a key decision maker when it comes to problem solving and project direction, while also being heavily involved from a project management side of things. 
+
+Being able to work for such a good cause as Movember is the key motivation for this role, once aquiring such skills as being a full stack developer I would like to use them in the most impactful way possible.
+
+**A description of the skills, qualifications and experience required for the position.**
+
+To qualify for this job you would need 3+ years of software development experience, specifically with Angular or React frameworks. You will also require technical knowledge of CSS,CSS frameworks & responsive design preprocessors. As well as Technical knowledge of JavaScript.
+
+Individual must also be familiar with automated deployment pipelines & agile development processes. They must also display great communication skills and an ability to translate business needs into technical language.
+
+
+**A description of the skills, qualifications and experience you currently have.**
+
+- Ability to effectively manage large scale cross functional & global teams of junior producers/product managers, UX specialists, designers, content creators, developers, quality assurance & dev ops teams.
+- Ability to effectively manage internal and external senior stakeholders when providing updates or dealing with escalation
+- Experience in effectively managing tier 1, high revenue clients with a clear product roadmap and delivery
+- Strong technical understanding and proven experience in managing complex digital solutions across multiple frameworks & languages
+- The ability to work unusual hours when required given the nature of my current industry that I serve
+- Extensive experience with other project/product management tools ie: forecasting, scheduling, time planning & reporting
+- Client research & analysis 
+- Documentation of projects via Confluence 
+- Project planning, scoping, Sprint planning, & timelines, mostly managed via JIRA Proven experience with multiple delivery frameworks/methodologies such as Waterfall, Agile, Scrum, Scaled Agile Framework, Lean & Kanban
+
+
+**A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now**
+
+I will acquire majority of the required skills by completing this Bachelor of IT degree. Using this as that starting point I will look to transition from my current role as a Project Manager to a web developer role either within my current company or with another. From that stage I will need to spend a couple of years gaining valuable on the job experience, even potentially look at gaining this experience with multiple different roles & companies. 
+
+
 
 
 ### Personal Profile
