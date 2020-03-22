@@ -1,15 +1,42 @@
 ## Welcome to Joshua Rogers GitHub Page
 
-You can use the [editor on GitHub](https://github.com/joshrogers1512/IIT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here you will find Joshua Rogers eportfolio for Introduction to Information Technology Assessment 1.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Include your name, student number, email address, and some basic background information nationality and culture, education to date, languages spoken etc). Include at least one fact about yourself that others may find interesting, such as a hobby, a pet or your favourite sport or other pastime
 
-```markdown
-Syntax highlighted code block
+
+
+### Interest in IT
+
+You should answer the questions below as best you can. Each answer should be one paragraph in length.
+
+- What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
+- Why did you choose to come to RMIT?
+- What do you expect to learn during your studies?
+
+
+### Ideal Job
+
+lorem ispum
+
+
+### Personal Profile
+
+lorem ispum
+
+
+
+### Project Idea
+
+lorem ispum
+
+
+
+
+
 
 # Header 1
 ## Header 2
