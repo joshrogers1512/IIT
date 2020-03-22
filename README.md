@@ -94,7 +94,23 @@ I will acquire majority of the required skills by completing this Bachelor of IT
 
 ### Personal Profile
 
-lorem ispum
+**Results of Myers-Briggs Test**
+Personality Type: Conceptual planner
+Summary: You have a clear vision of future possibilities coupled with the drive and organization to implement your ideas. You love complex challenges and readily synthesize complicated theoretical and abstract matters. Once you have created their general structure, you devise strategies to achieve your goals.
+
+**Results of Training.com.au Test**
+Learning Style: Social
+Summary: 
+- Discuss what you are learning with family and friends, then have them quiz you
+- Always involve yourself in study groups when possible
+- Get yourself involved in relevant forum discussions – many schools and universities have exclusive forums
+- Seek out a study buddy!
+- Create a presentation with the main points of your learning and then present it to someone that you know
+
+**Results of Psychometricinstitute.com.u Test**
+Results: 4/10 - Low Abstract reasoning
+Resource Link: https://www.psychometricinstitute.com.au/
+
 
 
 
