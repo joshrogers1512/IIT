@@ -131,36 +131,54 @@ This will allow grass roots leagues to share valuable statistics and data with n
 
 Although this product will benefit grass roots sporting leagues, there’s nothing to say that your local bowling club, or your group of mates Fantasy Football league can’t create their own completely custom site with all of their leagues historical data & statistics.
 
+**Description of Site Logic**
 
-**Tools and Technologies (100) words) - Describe the software, hardware and/or**
-**Skills Required (100 words) - List the skills are required for your project, including software that needs to be written, and special hardware (if any). How feasible will it be to find the skills, software and hardware required?**
+Backend CMS
+
+The backend CMS will be the main crux of the product. Each client will be given access to their own Backend CMS, the ability to have over 10 user logins. 
+
+Here they will be add the following details; 
+
+Style Guide & Branding 
+-	Here the client will be able to select Primary, Secondary & Third (Optional) colours hex codes that will style majority of the website. 
+-	Section to upload site headers, footers & MREC ads. These must fit specific specification requirements
+
+Statistic Tables & Sections
+-	Client can add as many different Statistic tables via both manual adding statistics, or ingesting via CSV format. 
+-	On this table client can add filters &  links on specific table options to other pages on the site.
+
+Static Content
+-	Here the client will be able to customise the site landing page
+-	They will also be able to add as many static content/notice board pages to the site. This is a great way to add pages with a lot of text like league fixtures. 
+
+
+Release Newest Changes to Production 
+-	This will simply be a page in which will allow the client to push all new changes on UAT to production after they have tested them. 
+
+
+_Each section will have a Publish Changes button that will push any changes they have made straight to their UAT environment for testing._
+
+
+Frontend Skeleton Template – React 
+
+- The frontend will be built on react framework. It will be built in a template style, that will allow clients to style it perfectly via making changes on the BE CMS.
+
+
+
+Domain/Subdomain
+
+- Each client that comes aboard will have the option to build their site on a stand alone domain if they have the money to purchase, although if they don’t they won’t need to worry about purchasing their own domain for the site to live on. 
+
+- Each site URL will be a subdomain of the master site. Example, if grass roots league called Chester Football League came aboard as a client and didn’t want to purchase their own domain they would be given a subdomain like the following – www.masterstats/chesterfootballelague. 
+
+
+
+
+**Skills Required**
+
+
+
 
 **Outcome (100 words) - If the project is successful, what will be the outcome? How will the original problem be solved? What impact will this development have?**
 
 
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshrogers1512/IIT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
