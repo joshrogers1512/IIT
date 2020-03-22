@@ -104,6 +104,7 @@ I will acquire majority of the required skills by completing this Bachelor of IT
 **Results of Myers-Briggs Test**
 
 Personality Type: Conceptual planner
+
 Summary: You have a clear vision of future possibilities coupled with the drive and organization to implement your ideas. You love complex challenges and readily synthesize complicated theoretical and abstract matters. Once you have created their general structure, you devise strategies to achieve your goals.
 
 **Results of Training.com.au Test**
