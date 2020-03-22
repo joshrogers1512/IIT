@@ -1,11 +1,19 @@
-## Welcome to Joshua Rogers GitHub Page
+## Welcome to Joshua Rogers eportfolio
 
 Here you will find Joshua Rogers eportfolio for Introduction to Information Technology Assessment 1.
 
 
 ### Introduction
 
-Include your name, student number, email address, and some basic background information nationality and culture, education to date, languages spoken etc). Include at least one fact about yourself that others may find interesting, such as a hobby, a pet or your favourite sport or other pastime
+**Name:** Joshua Rogers
+**Student Number:** s3540958
+**Email Address:** s3540958@student.rmit.edu.au
+
+I was born in Australia, and come from two parents Australian born parents, although while growing up I had the privilege to be spend time in both the United States & New Zealand during both my primary & senior school education periods. Although spending time in both those countries growing up, I came back to Melbourne to complete years 10-12 of my High School educations, and my VCE (Victorian Certificate of Education). 
+
+After completing High School, I took some time off to travel around both the United States & Europe. After this I have had two seperate attempts at completing a bachelors degree in which both I have withdrawn about 50-75% way through after finding I did not have the passion or drive for these fields.
+
+Since my last attempt at Uni, I have since landed myself a job working in sports tech for the past 4 years, falling completely in love with it. Now spending majority of my time behind a screen these days, I'm lucky enough to have the ultimate release by being able to escape to a farm in South East Gippsland run by my parents. Getting down there to assist with all animal & regular farm related tasks is something that I truely love and provides me the perfect balance.
 
 
 
