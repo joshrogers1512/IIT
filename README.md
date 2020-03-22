@@ -25,16 +25,17 @@ Since my last attempt at Uni, I have since landed myself a job working in sports
 
 You should answer the questions below as best you can. Each answer should be one paragraph in length.
 
-**What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).**
+**What is my interest in IT? When did my interest in IT start? Was there a particular event or person that sparked your interest?**
+
 As I briefly touched on above, about 4 years ago I moved into a IT/tech industry when taking on a role at company FanHub Media. Starting as a customer support staff member, I have made my way up to a Product Manager, with experience managing app & website builds that have reached a user databases of over 300,000. 
 
 Intially working at FanHub Media was easy due to my strong interest in sports, although as my time at the company has progressed I have found myself more & more intrigued in the technical side of project builds. Watching & managing our Frontend, Backend & App developer teams build such amazing products from the ground up is what has fueled by desire and interest in IT. 
 
-**Why did you choose to come to RMIT?**
+**Why did I choose to come to RMIT?**
 
 The key reason why I chose Bachelor or IT at RMIT was that I am able to complete this study 100% online. Allowing me to squeeze it in around my busy work schedule, while also giving me the flexibility to complete a move to my companys London office later in the year.
 
-**What do you expect to learn during your studies?**
+**What do I expect to learn during your studies?**
 
 I'm going into my studies with 2 key goals; 
 
