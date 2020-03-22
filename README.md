@@ -6,7 +6,9 @@ Here you will find Joshua Rogers eportfolio for Introduction to Information Tech
 ### Introduction
 
 **Name:** Joshua Rogers
+
 **Student Number:** s3540958
+
 **Email Address:** s3540958@student.rmit.edu.au
 
 I was born in Australia, and come from two parents Australian born parents, although while growing up I had the privilege to be spend time in both the United States & New Zealand during both my primary & senior school education periods. Although spending time in both those countries growing up, I came back to Melbourne to complete years 10-12 of my High School educations, and my VCE (Victorian Certificate of Education). 
@@ -21,7 +23,7 @@ Since my last attempt at Uni, I have since landed myself a job working in sports
 
 You should answer the questions below as best you can. Each answer should be one paragraph in length.
 
-- What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
+**What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).**
 - Why did you choose to come to RMIT?
 - What do you expect to learn during your studies?
 
