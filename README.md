@@ -17,7 +17,6 @@ After completing High School, I took some time off to travel around both the Uni
 
 Since my last attempt at Uni, I have since landed myself a job working in sports tech for the past 4 years, falling completely in love with it. Now spending majority of my time behind a screen these days, I'm lucky enough to have the ultimate release by being able to escape to a farm in South East Gippsland run by my parents. Getting down there to assist with all animal & regular farm related tasks is something that I truely love and provides me the perfect balance.
 
-![Image](src)
 
 
 
@@ -42,6 +41,9 @@ I'm going into my studies with 2 key goals;
 1. Increase Technical Knowledge to assist with Product Management role at work. 
 
 2. Equip myself with the skills to have the capabilty to create & build web projects myself, I want to come out of this with a dynamic set of developer skills.
+
+
+
 
 
 ### Ideal Job
@@ -92,6 +94,11 @@ I will acquire majority of the required skills by completing this Bachelor of IT
 
 
 
+
+
+
+
+
 ### Personal Profile
 
 **Results of Myers-Briggs Test**
@@ -117,9 +124,14 @@ Resource Link: https://www.psychometricinstitute.com.au/
 
 
 
+
+
+
+
+
 ### Project Idea
 
-**Overview (100 words) - This should be a summary of what the project will be.**
+**Overview**
 
 The product that I would bring to life would be a Customisable Statistics Website. Allowing clients to swiftly bring to life a customisable branded website that can display a variety of statistics, profiles and historical data. 
 
@@ -176,9 +188,24 @@ Domain/Subdomain
 
 **Skills Required**
 
+_Team Required_
+
+Account Manager/s: Key role will be to help sell the product to grass root sporting leagues.  
+
+Product Manager/s: Key role will be first manage the initial project build, and second to maintain product updates, as well as assist with bugfixing raised by clients. 
+
+Frontend Developer/s: Must have great react knowledge, and will be vital in building the initial framework & templated FE.
+
+Backend Developer/s: Key role will be setting up & building the BE CMS.
+
+Designer/s: Will be required initially while planning out how the sites are to work from a UI & UX perspective.
 
 
 
-**Outcome (100 words) - If the project is successful, what will be the outcome? How will the original problem be solved? What impact will this development have?**
+**Outcome**
+
+If the project is to be successful it will help grass root sporting leagues engage in deeper way than they ever have with their fans, allowing them to keep up to date on more than just weekly scores when they can’t get to games. 
+
+There is no real future progression or evolution for this product as its really quite simple. If things were to go really well, I would look at integrating the BE CMS with native apps as the next possible step.
 
 
