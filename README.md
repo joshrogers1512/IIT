@@ -3,7 +3,7 @@
 Here you will find Joshua Rogers eportfolio for Introduction to Information Technology Assessment 1.
 
 
-**### Introduction**
+### Introduction
 
 **Name:** Joshua Rogers
 
@@ -21,7 +21,7 @@ Since my last attempt at Uni, I have since landed myself a job working in sports
 
 
 
-**###Interest in IT**
+### Interest in IT
 
 You should answer the questions below as best you can. Each answer should be one paragraph in length.
 
@@ -92,7 +92,7 @@ I will acquire majority of the required skills by completing this Bachelor of IT
 
 
 
-**###Personal Profile**
+### Personal Profile
 
 **Results of Myers-Briggs Test**
 
@@ -117,7 +117,7 @@ Resource Link: https://www.psychometricinstitute.com.au/
 
 
 
-**###Project Idea**
+### Project Idea
 
 **Overview (100 words) - This should be a summary of what the project will be.**
 
