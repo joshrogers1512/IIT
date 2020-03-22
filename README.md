@@ -3,7 +3,7 @@
 Here you will find Joshua Rogers eportfolio for Introduction to Information Technology Assessment 1.
 
 
-### Introduction
+**###Introduction**
 
 **Name:** Joshua Rogers
 
@@ -21,7 +21,7 @@ Since my last attempt at Uni, I have since landed myself a job working in sports
 
 
 
-### Interest in IT
+**###Interest in IT**
 
 You should answer the questions below as best you can. Each answer should be one paragraph in length.
 
@@ -92,15 +92,17 @@ I will acquire majority of the required skills by completing this Bachelor of IT
 
 
 
-### Personal Profile
+**###Personal Profile**
 
 **Results of Myers-Briggs Test**
+
 Personality Type: Conceptual planner
 Summary: You have a clear vision of future possibilities coupled with the drive and organization to implement your ideas. You love complex challenges and readily synthesize complicated theoretical and abstract matters. Once you have created their general structure, you devise strategies to achieve your goals.
 
 **Results of Training.com.au Test**
+
 Learning Style: Social
-Summary: 
+Summary: The following points listed below, help describe my ideal method of learning.
 - Discuss what you are learning with family and friends, then have them quiz you
 - Always involve yourself in study groups when possible
 - Get yourself involved in relevant forum discussions – many schools and universities have exclusive forums
@@ -108,17 +110,32 @@ Summary:
 - Create a presentation with the main points of your learning and then present it to someone that you know
 
 **Results of Psychometricinstitute.com.u Test**
+
 Results: 4/10 - Low Abstract reasoning
 Resource Link: https://www.psychometricinstitute.com.au/
 
 
 
 
-### Project Idea
+**###Project Idea**
 
-lorem ispum
+**Overview (100 words) - This should be a summary of what the project will be.**
+
+The product that I would bring to life would be a Customisable Statistics Website. Allowing clients to swiftly bring to life a customisable branded website that can display a variety of statistics, profiles and historical data. 
+
+Clients would gain access a Backend CMS in which they can input data both manually or ingest via a CSV document, via this CMS they will also be able to upload the sites branding including primary, secondary & third colours that will help style the website. They will also have the ability to add their own headers, footers and MREC ads to really make every site feel like their own custom built website.
+
+This product will help grass roots sporting leagues, by allowing them promote both their league and the players within the league by sharing player, game & season statistics via this customisable branded website.
+
+This will allow grass roots leagues to share valuable statistics and data with not only fans of their leagues, but also other interested teams from higher level sporting leagues. Giving players from hard to access leagues a better chance of getting recruited & researched by professional sporting leagues. 
+
+Although this product will benefit grass roots sporting leagues, there’s nothing to say that your local bowling club, or your group of mates Fantasy Football league can’t create their own completely custom site with all of their leagues historical data & statistics.
 
 
+**Tools and Technologies (100) words) - Describe the software, hardware and/or**
+**Skills Required (100 words) - List the skills are required for your project, including software that needs to be written, and special hardware (if any). How feasible will it be to find the skills, software and hardware required?**
+
+**Outcome (100 words) - If the project is successful, what will be the outcome? How will the original problem be solved? What impact will this development have?**
 
 
 
