@@ -1,12 +1,12 @@
-### A2 Group # 58
+# A2 Group # 58
 
 ## Introduction to Information Technology 
 
 ## Assignment 2
 
-## Team Profile
+### Team Profile
 
-# Team Name
+### Team Name
 This is IT.
 
 ## Members
